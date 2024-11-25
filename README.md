@@ -1,7 +1,8 @@
 ## Olá! Eu sou o João Turi 👋
 
 <a href="https://github.com/pstjoao/github-readme-stats">
-  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=pstjoao&show_icons=true&theme=dracula&include_all_commits=true&border_radius=2"/>
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=pstjoao&show_icons=true&theme=dracula#gh-dark-mode-only&include_all_commits=true&border_radius=2"/>
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=pstjoao&show_icons=true&theme=default#gh-dark-mode-only&include_all_commits=true&border_radius=2"/>
 </a>
 <a href="https://github.com/pstjoao/convoychat">
   <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pstjoao&layout=compact&border_radius=1&langs_count=8&theme=dracula"/>
@@ -17,6 +18,6 @@
 
 <div>
   <a href="mailto:jpturi14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-pedro-776193282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+  <a href="https://www.linkedin.com/in/joao-pedro-776193282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
                     
