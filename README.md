@@ -1,10 +1,10 @@
 ## Olá! Eu sou o João Turi 👋
 
 <a href="https://github.com/pstjoao/github-readme-stats">
-  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=pstjoao&show_icons=true&theme=nightowl&bg_color=00000000&include_all_commits=true&border_radius=2"/>
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=pstjoao&show_icons=true&theme=algolia&bg_color=00000000&include_all_commits=true&border_radius=2"/>
 </a>
 <a href="https://github.com/pstjoao/convoychat">
-  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pstjoao&layout=compact&border_radius=1&langs_count=8&theme=nightowl&bg_color=00000000"/>
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pstjoao&layout=compact&border_radius=1&langs_count=8&theme=algolia&bg_color=00000000"/>
 </a>
 
 <div style="display: inline_block"><br>
