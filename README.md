@@ -1,7 +1,11 @@
 ## Olá! Eu sou o João Turi 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<a href="https://github.com/pstjoao/github-readme-stats">
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=pstjoao&show_icons=true&theme=dracula&bg_color=00000000&include_all_commits=true&border_radius=2"/>
+</a>
+<a href="https://github.com/pstjoao/convoychat">
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pstjoao&layout=compact&border_radius=1&langs_count=8&theme=dracula&bg_color=00000000"/>
+</a>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="João-Cs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
